@@ -1,2 +1,1 @@
-.idea/\*
-.idea
+pip install selenium
